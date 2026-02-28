@@ -24,7 +24,7 @@ def test_01():
     if not os.path.exists("files/output/"):
         raise Exception("Output directory does not exist")
 
-    #
+    #ho
     # Retorna error si el archivo "_SUCCESS" no existe en la
     # carpeta output/
     if not os.path.exists("files/output/_SUCCESS"):

@@ -12,7 +12,7 @@ import time
 # a un conjunto de archivos en texto plano, midiendo el tiempo de ejecución.
 # El conjunto de archivos se genera replicando n veces un conjunto de archivos
 # de ejemplo que se encuentran en la carpeta files/raw.
-#intento
+#intento hola
 
 def clear_folder(folder):
     if os.path.exists(folder):
